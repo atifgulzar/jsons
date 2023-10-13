@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "lat": "53.5246431",
+    "lon": "-2.275628",
+    "distance": 0.7,
+    "travelling_time": 16,
+    "shop_name": "Sugar Rush",
+    "shop_logo": "https://styles.letsorder.uk/_shops/9011//images/logo.png",
+    "shop_licence": 9011,
+    "shop_rating": 4.7,
+    "rider_earn": 350,
+    "order_id": 35201,
+    "customer": {
+      "fullName": "James Harris",
+      "mobile": "07835086356",
+      "address": "167-169 Heywood Road",
+      "town": "Prestwich",
+      "city": "Manchester",
+      "postCode": "M25 1LB",
+      "note": "Call me when you arrive.",
+      "rating": 4.9,
+      "bill": 1059,
+      "payment_method": "CASH"
+    },
+    "pick": {
+      "lat": "53.5115658",
+      "lon": "-2.2449512",
+      "address": "581 Cheetham Hill Rd",
+      "town": "Cheetham Hill",
+      "city": "Manchester",
+      "postCode": "M25 0PD"
+    },
+    "drop": {
+      "lat": "53.5346953",
+      "lon": "-2.2750497",
+      "address": "167-169 Heywood Road",
+      "town": "Prestwich",
+      "city": "Manchester",
+      "postCode": "M25 1LB"
+    },
+    "date": "06-10-23"
+  }
+]
